@@ -1,3 +1,3 @@
-Hangman game made from python
-need to import both the files to run properly
+Hangman game made from python \n
+need to import both the files to run properly\n
 makes use of random module
