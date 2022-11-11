@@ -2,7 +2,7 @@ alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n'
 
 
 """
-
+this below function is shortened into one further below
 def encrypt(plain_text,shift_amount):
   cipher_text=""
   for letter in plain_text:
